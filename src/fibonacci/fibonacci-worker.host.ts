@@ -1,4 +1,4 @@
-// src/fibonacci/fibonacci-worker.host.ts
+
 import {
     Injectable,
     OnApplicationBootstrap,
